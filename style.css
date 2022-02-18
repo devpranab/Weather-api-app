@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(img/pexels-brett-sayles-912364.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.weather-status{
+    margin-top: -30px;
+}
